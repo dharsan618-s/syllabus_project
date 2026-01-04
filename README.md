@@ -6,3 +6,4 @@ data analyts associate
 advanced data anlyts 
 perdiction and machine learning
 version control using git
+version cointrol using git
