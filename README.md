@@ -1,4 +1,4 @@
-# data analyst syllabus 
+# data analyst syllabus,nov 2025
 ## data mites,coimbatore
 python basics
 statistics
