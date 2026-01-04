@@ -7,3 +7,5 @@ advanced data anlyts
 perdiction and machine learning
 
 git using version control
+
+sql and database
